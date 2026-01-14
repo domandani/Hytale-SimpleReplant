@@ -1,0 +1,17 @@
+{
+  "Group": "Doma",
+  "Name": "SimpleReplant",
+  "Version": "${project.version}",
+  "Description": "TODO",
+  "Authors": [
+    {
+      "Name": "Doma"
+    }
+  ],
+  "Website": "website",
+  "ServerVersion": "*",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "com.doma.SimpleReplant"
+}
